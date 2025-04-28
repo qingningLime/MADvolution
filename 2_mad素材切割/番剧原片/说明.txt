@@ -1,0 +1,8 @@
+此目录用于存放原始视频素材文件：
+- 视频文件(.mkv/.mp4格式)
+- 分辨率建议1080p或以上
+
+文件名格式要求：
+[SVFI] [番剧名][集数][分辨率].mkv
+示例：
+[SVFI] BanG Dream! It's MyGO!!!!! [01][2160p BD HEVC Main10 FLAC].mkv
