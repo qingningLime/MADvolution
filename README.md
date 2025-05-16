@@ -1,5 +1,8 @@
 # 🎬 MADvolution_剪辑进化
 > 一款基于AI的自动视频剪辑工具，5分钟即可完成传统一天的工作量，亦是一种ai剪辑的方法论
+## 最新版本
+新版本已经发布，现版本将不再维护
+[MADvolution2_剪辑跃迁](https://github.com/qingningLime/MADvolution_2)
 
 ## 📖 目录
 - [✨ 核心特性](#-核心特性)
